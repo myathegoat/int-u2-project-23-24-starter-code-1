@@ -2,7 +2,9 @@
 .title { 
     text-align: center;
 }
-
+img {
+  border-radius: 10px;
+}
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
     color: black;
@@ -17,3 +19,14 @@ body {
     text-align: center;
     background-color: black;
 }
+
+#donate-img {
+  width: 250px; 
+}
+#solutions-img {
+  width: 250px;
+}
+body {
+  background-color: #0000FF;
+}
+
